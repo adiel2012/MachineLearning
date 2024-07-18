@@ -11,3 +11,95 @@
 |Deep Learning<br> - Attention Is All You Need <br> - GPT2|<br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mZjsGRxi1Y7GKnN9XZQUanqSZBk6jaiX#scrollTo=KW2OJmIgmm5U)<br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-vop-2ISlC6TzyhskSnnwxyvnq6U4XLN#scrollTo=ELK0cCF56x6b)
 |
 
+
+
+# Essential Statistics Knowledge for Machine Learning
+
+## Descriptive Statistics
+1. **Measures of Central Tendency**
+   - Mean
+   - Median
+   - Mode
+2. **Measures of Dispersion**
+   - Range
+   - Variance
+   - Standard Deviation
+   - Interquartile Range (IQR)
+3. **Distribution Shapes**
+   - Skewness
+   - Kurtosis
+
+## Probability Theory
+1. **Basic Concepts**
+   - Probability rules (addition, multiplication)
+   - Conditional probability
+   - Bayes' Theorem
+2. **Probability Distributions**
+   - Discrete distributions (Binomial, Poisson)
+   - Continuous distributions (Normal, Exponential, Uniform)
+   - Central Limit Theorem
+
+## Inferential Statistics
+1. **Sampling**
+   - Sampling methods (random, stratified, etc.)
+   - Sampling distributions
+2. **Estimation**
+   - Point estimation
+   - Confidence intervals
+3. **Hypothesis Testing**
+   - Null and alternative hypotheses
+   - Type I and Type II errors
+   - P-values
+   - T-tests, Z-tests, Chi-square tests, ANOVA
+
+## Regression Analysis
+1. **Linear Regression**
+   - Simple linear regression
+   - Multiple linear regression
+   - Assumptions of linear regression
+   - Interpretation of coefficients
+2. **Logistic Regression**
+   - Binary logistic regression
+   - Multinomial logistic regression
+
+## Multivariate Statistics
+1. **Principal Component Analysis (PCA)**
+2. **Factor Analysis**
+3. **Cluster Analysis**
+
+## Time Series Analysis
+1. **Basic Concepts**
+   - Trend, seasonality, and noise
+2. **ARIMA Models**
+   - Autoregressive (AR)
+   - Integrated (I)
+   - Moving Average (MA)
+
+## Model Evaluation and Selection
+1. **Performance Metrics**
+   - Accuracy, precision, recall, F1-score
+   - ROC curve and AUC
+2. **Cross-Validation**
+   - K-fold cross-validation
+   - Leave-one-out cross-validation
+3. **Bias-Variance Tradeoff**
+
+## Advanced Topics
+1. **Bayesian Statistics**
+   - Bayesian inference
+   - Markov Chain Monte Carlo (MCMC)
+2. **Hidden Markov Models**
+3. **Survival Analysis**
+
+## Data Preprocessing and Cleaning
+1. **Handling Missing Data**
+2. **Data Transformation**
+3. **Feature Scaling (Normalization, Standardization)**
+
+## Statistical Software and Tools
+1. **Programming Languages**
+   - Python (libraries: NumPy, SciPy, pandas, scikit-learn)
+   - R
+2. **Visualization**
+   - Matplotlib, Seaborn
+   - ggplot2 (R)
