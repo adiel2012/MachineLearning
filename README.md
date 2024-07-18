@@ -8,4 +8,5 @@
 | Feature Selection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Eo19OeyI2yUfo5QZVgqEsA5vLChaccbg)   |
 | OverSampling/UnderSampling Techniques | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sWsuKetMHGGSKFgNhevKfXa0UqyVp7Sm#scrollTo=w4Q1QdYb4IAR)|
 |Algorithms <br> - Linear Regression|<br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OurOAF0sJ7LQcLVNm-UK1ucqOpKPaTOL)|
+|Deep Learning<br> Attention Is All You Need| <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mZjsGRxi1Y7GKnN9XZQUanqSZBk6jaiX#scrollTo=KW2OJmIgmm5U)|
 
