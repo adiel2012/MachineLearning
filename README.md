@@ -9,7 +9,7 @@
 | OverSampling/UnderSampling Techniques | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sWsuKetMHGGSKFgNhevKfXa0UqyVp7Sm#scrollTo=w4Q1QdYb4IAR)|
 |Algorithms <br> - Linear Regression <br> - Naive Bayes <br> - SVM|<br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OurOAF0sJ7LQcLVNm-UK1ucqOpKPaTOL) <br>  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XanQhHwJ1Ba0PWkJtH7HdJmncifJwKzl#scrollTo=pKWbqeOxfqUR) <br>  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yjdAzXWIvchhAjVFQnGm8KJUpsdydKB1#scrollTo=_LaHSNxdSPpF)|
 |Deep Learning<br> - Attention Is All You Need <br> - GPT2|<br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mZjsGRxi1Y7GKnN9XZQUanqSZBk6jaiX#scrollTo=KW2OJmIgmm5U)<br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-vop-2ISlC6TzyhskSnnwxyvnq6U4XLN#scrollTo=ELK0cCF56x6b)|
-|Descriptive Statistics|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BerKC7Lj9Zljgusnmno8-Wtcsu9SVVTW#scrollTo=Ps3Xz_911Xid)|
+|Descriptive Statistics <br> - PCA| <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BerKC7Lj9Zljgusnmno8-Wtcsu9SVVTW#scrollTo=Ps3Xz_911Xid)|
 
 
 
