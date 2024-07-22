@@ -13,6 +13,7 @@
 |Descriptive Statistics <br> - PCA| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BerKC7Lj9Zljgusnmno8-Wtcsu9SVVTW#scrollTo=Ps3Xz_911Xid) <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YiiM28BE7AMj-jYxy8HAlZ8nMXZlTtxq)|
 |Optimization Algorithms| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xUZ8t8cEwCTnI8_o0vzy-KzPFR_rOGYD#scrollTo=qtVfnLJRc2zH) |
 |Reinforcement Learning|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kOH8ArEme3ZKpzhz3s4n7vl8AwJhTvyU#scrollTo=zCwUb2xrP0p8)|
+|Ensembles|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18CWQAdIPE3-H7K0Rybgisg6aukRgjM6D)|
 
 
 
