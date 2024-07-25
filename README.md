@@ -19,6 +19,11 @@
 |Clustering|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14uD4jk5skIeUbY0AtfXkQQFJMTgmTBTq#scrollTo=IUiV_cVtb19p)|
 
 
+Other IA Topics
+| Topic    |  |
+|----------|----------|
+|Fuzzy Logic|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NKjIoaK-esGZ5sBKjb9m4SABPJ-kG9Im) |
+
 
 # Essential Statistics Knowledge for Machine Learning
 
