@@ -26,7 +26,14 @@
 |Generative AI||
 |-GAN| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15D7og4emQwY6t7carIBgfQk9IrylVApM#scrollTo=xJ4M6VloUBy5)|
 |-VAN| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V7Jj9lzKoMp1hEqG1TDxrCfry71zdtPz#scrollTo=7Ofb6lA2UoiL)|
-
+|LongFormer|  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17jxyfvtvzd94d3jiGCwy9OPHYTWQn6DE)|
+|ELECTRA|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VR-U7js60JG6coKh2CQ7dz-NbPNnFp2C)|
+|T5| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uGhBKw473thcZw2l26h1BsX6A2cW28YH) |
+|XLNet| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1239p3Y0O5zHv3SPP-FKIM73mKvJ-WZyr) |
+|DistilBERT| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RYJ8TClaLH1plwQDSdakM_jac5--bNd4) |
+|ALBert|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tn8rb42YNOOsUNJsdqPiseDdAeF72BJy) |
+|RoBERTa| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mZ86wO43EHqKg9JDSwMeXdsoIuwdAy5z) |
+|TransformerXL| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h0O9lt5Goc88PpK5oudWXA2pN5vmhLhF) |
 
 Other IA Topics
 | Topic    |  |
