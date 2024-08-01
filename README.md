@@ -18,6 +18,16 @@
 |Model Quantisation|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aea9fYMrEJmpBWFL_vbLuHZU-Ef9R7Ks#scrollTo=b8226125)|
 |Clustering|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14uD4jk5skIeUbY0AtfXkQQFJMTgmTBTq#scrollTo=IUiV_cVtb19p)|
 
+| Deep Learning    |  |
+|----------|----------|
+|Attention Is All You Need | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mZjsGRxi1Y7GKnN9XZQUanqSZBk6jaiX#scrollTo=KW2OJmIgmm5U) |
+|GPT2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-vop-2ISlC6TzyhskSnnwxyvnq6U4XLN#scrollTo=ELK0cCF56x6b) |
+|GPT3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JiVeJ9fNtvgKw2Axpo4Vt2KpTxpvsycQ#scrollTo=mf6WVGVBP1cq) |
+|Vision Transformer| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bGejvijRNmzck5R4A1Jr7GYV11kXg5jo)|
+|Generative AI||
+|-GAN| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15D7og4emQwY6t7carIBgfQk9IrylVApM#scrollTo=xJ4M6VloUBy5)|
+|-VAN| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V7Jj9lzKoMp1hEqG1TDxrCfry71zdtPz#scrollTo=7Ofb6lA2UoiL)|
+
 
 Other IA Topics
 | Topic    |  |
