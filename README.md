@@ -21,6 +21,7 @@
 |----------|----------|
 |Tokenization Techniques for LLMs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u5uq8ZCw55yy6fe-XbN_OxPaYDvPVTgM#scrollTo=c493c8d8) |
 |Attention Is All You Need | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mZjsGRxi1Y7GKnN9XZQUanqSZBk6jaiX#scrollTo=KW2OJmIgmm5U) |
+|BERT| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mu6O83bqZXDftbmQvqbcwcYI33fN2q-Y#scrollTo=cnBgNZmw7JAC)|
 |GPT2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-vop-2ISlC6TzyhskSnnwxyvnq6U4XLN#scrollTo=ELK0cCF56x6b) |
 |GPT3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JiVeJ9fNtvgKw2Axpo4Vt2KpTxpvsycQ#scrollTo=mf6WVGVBP1cq) |
 |Vision Transformer| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bGejvijRNmzck5R4A1Jr7GYV11kXg5jo)|
