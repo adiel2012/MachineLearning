@@ -13,7 +13,7 @@
 |Optimization Algorithms| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xUZ8t8cEwCTnI8_o0vzy-KzPFR_rOGYD#scrollTo=qtVfnLJRc2zH) |
 |MLE| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J5iA7T2s-zXNLNjYIzs7zBKVp6_Dkywu)|
 |Reinforcement Learning|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kOH8ArEme3ZKpzhz3s4n7vl8AwJhTvyU#scrollTo=zCwUb2xrP0p8)|
-|Ensembles|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18CWQAdIPE3-H7K0Rybgisg6aukRgjM6D)|
+|Ensembles <br> [Adaboost](https://www.overleaf.com/download/project/684ae8ab2a9da81d62657c99/build/19764cc6df2-a04fce701eb1c6d6/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n2d-c-f-8r4p&enable_pdf_caching=true&popupDownload=true)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18CWQAdIPE3-H7K0Rybgisg6aukRgjM6D)|
 |Algorithms Comparison|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ptopv_GnAqwNgshMpc1y809ZR8zRaZH9#scrollTo=db9qnn9QlRoJ)|
 |Model Quantisation|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aea9fYMrEJmpBWFL_vbLuHZU-Ef9R7Ks#scrollTo=b8226125)|
 |Clustering|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14uD4jk5skIeUbY0AtfXkQQFJMTgmTBTq#scrollTo=IUiV_cVtb19p)|
