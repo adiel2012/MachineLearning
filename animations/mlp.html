@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multilayer Perceptron Gradient Calculation</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 20px auto;
+      padding: 20px;
+    }
+    h1, h2, h3 {
+      text-align: center;
+    }
+    .formula {
+      background: #f9f9f9;
+      border: 1px solid #ddd;
+      padding: 10px;
+      border-radius: 5px;
+      margin: 10px 0;
+    }
+    canvas {
+      margin: 20px 0;
+    }
+    .demo-controls {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin: 20px 0;
+    }
+    .epoch-details {
+      background: #f1f1f1;
+      border: 1px solid #ccc;
+      padding: 10px;
+      border-radius: 5px;
+      margin-top: 10px;
+      overflow-y: auto;
+      max-height: 300px;
+    }
+    .epoch-details pre {
+      font-size: 0.9em;
+      margin: 0;
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Multilayer Perceptron Gradient Calculation</h1>
+    <p>
+      This page provides a detailed explanation of gradient calculation in a multilayer perceptron (MLP) for regression tasks, along with an interactive demonstration of training an MLP. 
+    </p>
+    <h2>Formulas</h2>
+    <p><strong>Loss Function:</strong></p>
+    <div class="formula">
+      <code>Loss = (1/2) * Σ(y_i - ŷ_i)^2</code>
+    </div>
+    <p><strong>Output Layer Gradients:</strong></p>
+    <div class="formula">
+      <code>∂L/∂W[2] = (ŷ - y) * A[1]</code><br>
+      <code>∂L/∂b[2] = (ŷ - y)</code>
+    </div>
+    <p><strong>Hidden Layer Gradients:</strong></p>
+    <div class="formula">
+      <code>∂L/∂W[1] = [(ŷ - y) * W[2] * f'(Z[1])] * X</code><br>
+      <code>∂L/∂b[1] = (ŷ - y) * W[2] * f'(Z[1])</code>
+    </div>
+    <h2>Interactive Demonstration</h2>
+    <p>
+      Use the controls below to train an MLP with one hidden layer. Step-by-step gradient calculations and updates will be displayed for each epoch.
+    </p>
+    <div class="demo-controls">
+      <label for="learningRate">Learning Rate:</label>
+      <input type="number" id="learningRate" value="0.01" step="0.001">
+      <label for="epochs">Epochs:</label>
+      <input type="number" id="epochs" value="10" step="1">
+      <button id="trainButton">Train</button>
+    </div>
+    <canvas id="lossChart" width="400" height="200"></canvas>
+    <div class="epoch-details" id="epochDetails">
+      <h3>Epoch Details:</h3>
+      <pre id="epochLog"></pre>
+    </div>
+  </div>
+  <script>
+    const canvas = document.getElementById('lossChart');
+    const ctx = canvas.getContext('2d');
+    let lossChart;
+
+    // Initialize weights and biases
+    let W1 = Math.random(); // Weight for hidden layer
+    let b1 = Math.random(); // Bias for hidden layer
+    let W2 = Math.random(); // Weight for output layer
+    let b2 = Math.random(); // Bias for output layer
+
+    const trainMLP = (learningRate, epochs) => {
+      const X = [0, 1, 2, 3]; // Input data
+      const Y = [0, 1, 4, 9]; // Target data
+      const losses = [];
+      let epochDetails = '';
+
+      for (let epoch = 0; epoch < epochs; epoch++) {
+        let totalLoss = 0;
+
+        epochDetails += `Epoch ${epoch + 1}:\n`;
+
+        for (let i = 0; i < X.length; i++) {
+          const x = X[i];
+          const y = Y[i];
+
+          // Forward pass
+          const z1 = W1 * x + b1;
+          const a1 = Math.max(0, z1); // ReLU activation
+          const yPred = W2 * a1 + b2;
+
+          // Compute loss
+          const loss = 0.5 * (yPred - y) ** 2;
+          totalLoss += loss;
+
+          // Backpropagation
+          const dLoss_dyPred = yPred - y;
+          const dLoss_dW2 = dLoss_dyPred * a1;
+          const dLoss_db2 = dLoss_dyPred;
+          const dLoss_da1 = dLoss_dyPred * W2;
+          const dLoss_dz1 = dLoss_da1 * (z1 > 0 ? 1 : 0);
+          const dLoss_dW1 = dLoss_dz1 * x;
+          const dLoss_db1 = dLoss_dz1;
+
+          // Log gradients
+          epochDetails += `  Input: ${x}, Target: ${y}\n`;
+          epochDetails += `    Gradients:\n`;
+          epochDetails += `      dW2: ${dLoss_dW2.toFixed(4)}, db2: ${dLoss_db2.toFixed(4)}\n`;
+          epochDetails += `      dW1: ${dLoss_dW1.toFixed(4)}, db1: ${dLoss_db1.toFixed(4)}\n`;
+
+          // Update weights and biases
+          W2 -= learningRate * dLoss_dW2;
+          b2 -= learningRate * dLoss_db2;
+          W1 -= learningRate * dLoss_dW1;
+          b1 -= learningRate * dLoss_db1;
+
+          // Log updated weights and biases
+          epochDetails += `    Updated Weights:\n`;
+          epochDetails += `      W2: ${W2.toFixed(4)}, b2: ${b2.toFixed(4)}\n`;
+          epochDetails += `      W1: ${W1.toFixed(4)}, b1: ${b1.toFixed(4)}\n`;
+        }
+
+        losses.push(totalLoss / X.length);
+        epochDetails += `  Average Loss: ${totalLoss / X.length}\n\n`;
+      }
+
+      document.getElementById('epochLog').textContent = epochDetails;
+      return losses;
+    };
+
+    const plotLoss = (losses) => {
+      if (lossChart) {
+        lossChart.destroy();
+      }
+      lossChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: losses.map((_, i) => i + 1),
+          datasets: [{
+            label: 'Loss',
+            data: losses,
+            borderColor: 'rgba(75, 192, 192, 1)',
+            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+            fill: true,
+          }]
+        },
+        options: {
+          responsive: true,
+          plugins: {
+            legend: {
+              display: true
+            }
+          },
+          scales: {
+            x: { title: { display: true, text: 'Epochs' } },
+            y: { title: { display: true, text: 'Loss' } }
+          }
+        }
+      });
+    };
+
+    document.getElementById('trainButton').addEventListener('click', () => {
+      const learningRate = parseFloat(document.getElementById('learningRate').value);
+      const epochs = parseInt(document.getElementById('epochs').value, 10);
+      const losses = trainMLP(learningRate, epochs);
+      plotLoss(losses);
+    });
+  </script>
+</body>
+</html>
