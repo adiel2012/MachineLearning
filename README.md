@@ -81,94 +81,94 @@ Each notebook can be opened directly in Google Colab using the provided links (o
 ### Foundation & Data Processing
 | Topic | Local Notebook | Open in Colab |
 |-------|---------------|---------------|
-| Introduction | <a href="./notebooks/Introduction.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Introduction.ipynb) |
-| Data Processing | <a href="./notebooks/DataProccesing.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/DataProccesing.ipynb) |
-| Feature Selection | <a href="./notebooks/Feature Selection.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Feature%20Selection.ipynb) |
-| **Over/Under Sampling Techniques** | <a href="./notebooks/OverUnderSamplingTechniques.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/OverUnderSamplingTechniques.ipynb) |
+| Introduction | <a href="./notebooks/Introduction.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Introduction.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Data Processing | <a href="./notebooks/DataProccesing.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/DataProccesing.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Feature Selection | <a href="./notebooks/Feature Selection.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Feature%20Selection.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| **Over/Under Sampling Techniques** | <a href="./notebooks/OverUnderSamplingTechniques.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/OverUnderSamplingTechniques.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ### Statistics & Theory
 | Topic | Local Notebook | Open in Colab |
 |-------|---------------|---------------|
-| Descriptive Statistics | <a href="./notebooks/DescriptiveStatistics.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/DescriptiveStatistics.ipynb) |
-| Maximum Likelihood Estimation | <a href="./notebooks/MLE.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/MLE.ipynb) |
-| Bias-Variance Tradeoff | <a href="./notebooks/Bias-Variance-Tradeoff.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Bias-Variance-Tradeoff.ipynb) |
-| **Principal Component Analysis** | <a href="./notebooks/PCA.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/PCA.ipynb) |
+| Descriptive Statistics | <a href="./notebooks/DescriptiveStatistics.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/DescriptiveStatistics.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Maximum Likelihood Estimation | <a href="./notebooks/MLE.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/MLE.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Bias-Variance Tradeoff | <a href="./notebooks/Bias-Variance-Tradeoff.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Bias-Variance-Tradeoff.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| **Principal Component Analysis** | <a href="./notebooks/PCA.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/PCA.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ### Machine Learning Algorithms
 | Topic | Local Notebook | Open in Colab |
 |-------|---------------|---------------|
-| Linear Regression | <a href="./notebooks/LinearRegression.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/LinearRegression.ipynb) |
-| Logistic Regression | <a href="./notebooks/LogisticRegression.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/LogisticRegression.ipynb) |
-| Naive Bayes | <a href="./notebooks/NaiveBayes.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/NaiveBayes.ipynb) |
-| **Support Vector Machines** | <a href="./notebooks/SVM.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/SVM.ipynb) |
-| **Multi-Layer Perceptron** | <a href="./notebooks/MPL.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/MPL.ipynb) |
-| Activation Functions | <a href="./notebooks/ActivationFunctions.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/ActivationFunctions.ipynb) |
+| Linear Regression | <a href="./notebooks/LinearRegression.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/LinearRegression.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Logistic Regression | <a href="./notebooks/LogisticRegression.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/LogisticRegression.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Naive Bayes | <a href="./notebooks/NaiveBayes.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/NaiveBayes.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| **Support Vector Machines** | <a href="./notebooks/SVM.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/SVM.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| **Multi-Layer Perceptron** | <a href="./notebooks/MPL.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/MPL.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Activation Functions | <a href="./notebooks/ActivationFunctions.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/ActivationFunctions.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ### Advanced Topics & Optimization
 | Topic | Local Notebook | Open in Colab |
 |-------|---------------|---------------|
-| Optimization Algorithms | <a href="./notebooks/OptimizationAlgorithms.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/OptimizationAlgorithms.ipynb) |
-| Reinforcement Learning | <a href="./notebooks/ReinforcementLearning.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/ReinforcementLearning.ipynb) |
-| **Ensemble Methods** | <a href="./notebooks/Ensembles.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Ensembles.ipynb) |
-| **Clustering** | <a href="./notebooks/Clustering.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Clustering.ipynb) |
-| Algorithm Comparison | <a href="./notebooks/AlgorithmComparisson.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/AlgorithmComparisson.ipynb) |
+| Optimization Algorithms | <a href="./notebooks/OptimizationAlgorithms.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/OptimizationAlgorithms.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Reinforcement Learning | <a href="./notebooks/ReinforcementLearning.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/ReinforcementLearning.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| **Ensemble Methods** | <a href="./notebooks/Ensembles.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Ensembles.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| **Clustering** | <a href="./notebooks/Clustering.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Clustering.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Algorithm Comparison | <a href="./notebooks/AlgorithmComparisson.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/AlgorithmComparisson.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ### Evaluation Metrics
 | Topic | Local Notebook | Open in Colab |
 |-------|---------------|---------------|
-| **Classification Metrics** | <a href="./notebooks/Classification Metrics.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Classification%20Metrics.ipynb) |
-| Regression Metrics | <a href="./notebooks/Regression Metrics.ipynb" target="_blank">📓 View</a> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Regression%20Metrics.ipynb) |
+| **Classification Metrics** | <a href="./notebooks/Classification Metrics.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Classification%20Metrics.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Regression Metrics | <a href="./notebooks/Regression Metrics.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Regression%20Metrics.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ## 🧠 Deep Learning & Transformers
 
 ### Natural Language Processing
 | Topic | Open in Colab |
 |-------|---------------|
-| Tokenization Techniques for LLMs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/tokenization_techniques_llm.ipynb) |
-| Attention Is All You Need | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/AttentionIsAllYouNeed.ipynb) |
-| Transformer Improvements | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/TransformerImprovements.ipynb) |
+| Tokenization Techniques for LLMs | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/tokenization_techniques_llm.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Attention Is All You Need | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/AttentionIsAllYouNeed.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Transformer Improvements | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/TransformerImprovements.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ### BERT Family Models
 | Topic | Open in Colab |
 |-------|---------------|
-| BERT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/BERT.ipynb) |
-| BERT (Alternative) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/BERT%281%29.ipynb) |
-| DistilBERT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/DistilBERT.ipynb) |
-| ALBERT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/ALBert.ipynb) |
-| RoBERTa | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/RoBERTa.ipynb) |
-| ELECTRA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/ELECTRA.ipynb) |
+| BERT | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/BERT.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| BERT (Alternative) | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/BERT%281%29.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| DistilBERT | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/DistilBERT.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| ALBERT | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/ALBert.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| RoBERTa | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/RoBERTa.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| ELECTRA | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/ELECTRA.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ### GPT Family & Generative Models
 | Topic | Open in Colab |
 |-------|---------------|
-| GPT-2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/gpt2.ipynb) |
-| GPT-3 (Reduced) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/gpt3Reduced.ipynb) |
-| T5 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/T5.ipynb) |
+| GPT-2 | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/gpt2.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| GPT-3 (Reduced) | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/gpt3Reduced.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| T5 | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/T5.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ### Advanced Transformer Architectures
 | Topic | Open in Colab |
 |-------|---------------|
-| XLNet | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/XLNet.ipynb) |
-| TransformerXL | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/TransformerXL.ipynb) |
-| Longformer | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Longformer.ipynb) |
+| XLNet | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/XLNet.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| TransformerXL | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/TransformerXL.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Longformer | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Longformer.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ### Computer Vision
 | Topic | Open in Colab |
 |-------|---------------|
-| Vision Transformer | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/VisionTransformer.ipynb) |
+| Vision Transformer | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/VisionTransformer.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ### Generative AI
 | Topic | Open in Colab |
 |-------|---------------|
-| Generative Adversarial Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/GAN.ipynb) |
-| Variational Autoencoders | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/VAE.ipynb) |
-| Variational Autoencoders (Alternative) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/VariationalAutoencoders.ipynb) |
+| Generative Adversarial Networks | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/GAN.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Variational Autoencoders | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/VAE.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Variational Autoencoders (Alternative) | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/VariationalAutoencoders.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ## 🔬 Research & Specialized Topics
 | Topic | Open in Colab |
 |-------|---------------|
-| Fuzzy Logic | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/FuzzyLogic.ipynb) |
-| Research Notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/research1.ipynb) |
+| Fuzzy Logic | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/FuzzyLogic.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Research Notebook | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/research1.ipynb" target="_blank">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 
 # Essential Statistics Knowledge for Machine Learning
