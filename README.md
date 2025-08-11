@@ -66,7 +66,7 @@ MachineLearning/
 3. <a href="./notebooks/Clustering.ipynb" target="_blank">Clustering</a> → <a href="./notebooks/Ensembles.ipynb" target="_blank">Ensembles</a>
 
 ### 🌳 **Advanced Path**
-1. <a href="./notebooks/MPL.ipynb" target="_blank">Multi-Layer Perceptron</a> → <a href="./notebooks/ActivationFunctions.ipynb" target="_blank">Activation Functions</a>
+1. <a href="./notebooks/MLP.ipynb" target="_blank">Multi-Layer Perceptron</a> → <a href="./notebooks/ActivationFunctions.ipynb" target="_blank">Activation Functions</a>
 2. <a href="./notebooks/AttentionIsAllYouNeed.ipynb" target="_blank">Attention Is All You Need</a>
 3. <a href="./notebooks/BERT.ipynb" target="_blank">BERT</a> → <a href="./notebooks/gpt2.ipynb" target="_blank">GPT-2</a> → <a href="./notebooks/T5.ipynb" target="_blank">T5</a>
 
@@ -101,7 +101,7 @@ Each notebook can be opened directly in Google Colab using the provided links (o
 | Logistic Regression | <a href="./notebooks/LogisticRegression.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/LogisticRegression.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 | Naive Bayes | <a href="./notebooks/NaiveBayes.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/NaiveBayes.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 | **Support Vector Machines** | <a href="./notebooks/SVM.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/SVM.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
-| **Multi-Layer Perceptron** | <a href="./notebooks/MPL.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/MPL.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| **Multi-Layer Perceptron** | <a href="./notebooks/MLP.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/MLP.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 | Activation Functions | <a href="./notebooks/ActivationFunctions.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/ActivationFunctions.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ### Advanced Topics & Optimization
