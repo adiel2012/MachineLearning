@@ -168,7 +168,6 @@ Each notebook can be opened directly in Google Colab using the provided links (o
 | Topic | Open in Colab |
 |-------|---------------|
 | Fuzzy Logic | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/FuzzyLogic.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
-| Research Notebook | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/research1.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 
 # Essential Statistics Knowledge for Machine Learning
