@@ -58,7 +58,7 @@ MachineLearning/
 ### 🌱 **Beginner Path**
 1. <a href="./notebooks/Introduction.ipynb" target="_blank">Introduction</a> → <a href="./notebooks/DescriptiveStatistics.ipynb" target="_blank">Descriptive Statistics</a>
 2. <a href="./notebooks/LinearRegression.ipynb" target="_blank">Linear Regression</a> → <a href="./notebooks/LogisticRegression.ipynb" target="_blank">Logistic Regression</a>
-3. <a href="./notebooks/Classification_Metrics.ipynb" target="_blank">Classification Metrics</a> → <a href="./notebooks/Regression%20Metrics.ipynb" target="_blank">Regression Metrics</a>
+3. <a href="./notebooks/Classification_Metrics.ipynb" target="_blank">**Classification Metrics**</a> → <a href="./notebooks/Regression_Metrics.ipynb" target="_blank">**Regression Metrics**</a>
 
 ### 🌿 **Intermediate Path**
 1. <a href="./notebooks/Feature%20Selection.ipynb" target="_blank">Feature Selection</a> → <a href="./notebooks/PCA.ipynb" target="_blank">PCA</a>
@@ -117,7 +117,7 @@ Each notebook can be opened directly in Google Colab using the provided links (o
 | Topic | Local Notebook | Open in Colab |
 |-------|---------------|---------------|
 | **Classification Metrics** | <a href="./notebooks/Classification_Metrics.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Classification_Metrics.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
-| Regression Metrics | <a href="./notebooks/Regression Metrics.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Regression%20Metrics.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| **Regression Metrics** | <a href="./notebooks/Regression_Metrics.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Regression_Metrics.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ## 🧠 Deep Learning & Transformers
 
