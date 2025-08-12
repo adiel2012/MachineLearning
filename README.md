@@ -61,7 +61,7 @@ MachineLearning/
 3. <a href="./notebooks/Classification_Metrics.ipynb" target="_blank">**Classification Metrics**</a> → <a href="./notebooks/Regression_Metrics.ipynb" target="_blank">**Regression Metrics**</a>
 
 ### 🌿 **Intermediate Path**
-1. <a href="./notebooks/Feature%20Selection.ipynb" target="_blank">Feature Selection</a> → <a href="./notebooks/PCA.ipynb" target="_blank">PCA</a>
+1. <a href="./notebooks/FeatureSelection.ipynb" target="_blank">Feature Selection</a> → <a href="./notebooks/PCA.ipynb" target="_blank">PCA</a>
 2. <a href="./notebooks/SVM.ipynb" target="_blank">SVM</a> → <a href="./notebooks/NaiveBayes.ipynb" target="_blank">Naive Bayes</a>
 3. <a href="./notebooks/Clustering.ipynb" target="_blank">Clustering</a> → <a href="./notebooks/Ensembles.ipynb" target="_blank">Ensembles</a>
 
@@ -83,7 +83,7 @@ Each notebook can be opened directly in Google Colab using the provided links (o
 |-------|---------------|---------------|
 | Introduction | <a href="./notebooks/Introduction.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Introduction.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 | Data Processing | <a href="./notebooks/DataProccesing.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/DataProccesing.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
-| Feature Selection | <a href="./notebooks/Feature Selection.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/Feature%20Selection.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Feature Selection | <a href="./notebooks/FeatureSelection.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/FeatureSelection.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 | **Over/Under Sampling Techniques** | <a href="./notebooks/OverUnderSamplingTechniques.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/OverUnderSamplingTechniques.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ### Statistics & Theory
