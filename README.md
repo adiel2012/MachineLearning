@@ -163,9 +163,10 @@ Each notebook can be opened directly in Google Colab using the provided links (o
 | Variational Autoencoders (Alternative) | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/VariationalAutoencoders.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ## 🔬 Research & Specialized Topics
-| Topic | Open in Colab |
-|-------|---------------|
-| Fuzzy Logic | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/FuzzyLogic.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Topic | Local Notebook | Open in Colab |
+|-------|---------------|---------------|
+| Fuzzy Logic | <a href="./notebooks/FuzzyLogic.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/FuzzyLogic.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| **Fuzzy Logic Designer App** | <a href="./notebooks/FuzzyLogicApp.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/FuzzyLogicApp.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 
 # Essential Statistics Knowledge for Machine Learning
