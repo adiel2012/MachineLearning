@@ -4,7 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/adiel2012/MachineLearning?style=social)](https://github.com/adiel2012/MachineLearning)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A comprehensive collection of **38 Jupyter notebooks** covering fundamental machine learning concepts, algorithms, and state-of-the-art deep learning architectures. From basic linear regression to advanced transformer models like BERT, GPT, and Vision Transformers.
+A comprehensive collection of **35 Jupyter notebooks** covering fundamental machine learning concepts, algorithms, and state-of-the-art deep learning architectures. From basic linear regression to advanced transformer models like BERT, GPT, and Vision Transformers.
 
 ## 🎯 What You'll Learn
 
@@ -68,7 +68,7 @@ MachineLearning/
 ### 🌳 **Advanced Path**
 1. <a href="./notebooks/MLP.ipynb" target="_blank">Multi-Layer Perceptron</a> → <a href="./notebooks/ActivationFunctions.ipynb" target="_blank">Activation Functions</a>
 2. <a href="./notebooks/AttentionIsAllYouNeed.ipynb" target="_blank">Attention Is All You Need</a>
-3. <a href="./notebooks/BERT.ipynb" target="_blank">BERT</a> → <a href="./notebooks/gpt2.ipynb" target="_blank">GPT-2</a> → <a href="./notebooks/T5.ipynb" target="_blank">T5</a>
+3. <a href="./notebooks/BERT.ipynb" target="_blank">BERT</a> → <a href="./notebooks/BERT_Fine_Tuning.ipynb" target="_blank">**BERT Fine-Tuning**</a> → <a href="./notebooks/gpt2.ipynb" target="_blank">GPT-2</a> → <a href="./notebooks/T5.ipynb" target="_blank">T5</a>
 
 ## 🔗 Quick Access Links
 
@@ -129,14 +129,12 @@ Each notebook can be opened directly in Google Colab using the provided links (o
 | Transformer Improvements | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/TransformerImprovements.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
 
 ### BERT Family Models
-| Topic | Open in Colab |
-|-------|---------------|
-| BERT | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/BERT.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
-| BERT (Alternative) | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/BERT%281%29.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
-| DistilBERT | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/DistilBERT.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
-| ALBERT | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/ALBert.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
-| RoBERTa | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/RoBERTa.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
-| ELECTRA | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/ELECTRA.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| Topic | Local Notebook | Open in Colab |
+|-------|---------------|---------------|
+| **BERT & Family Models** | <a href="./notebooks/BERT.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/BERT.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+| **BERT Fine-Tuning** | <a href="./notebooks/BERT_Fine_Tuning.ipynb" target="_blank">📓 View</a> | <a href="https://colab.research.google.com/github/adiel2012/MachineLearning/blob/main/notebooks/BERT_Fine_Tuning.ipynb" target="_blank" rel="noopener">![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)</a> |
+
+📝 **Note**: The BERT notebook now includes all BERT family models (RoBERTa, ALBERT, DistilBERT, DeBERTa) in a single comprehensive implementation, while the Fine-Tuning notebook focuses on downstream task applications.
 
 ### GPT Family & Generative Models
 | Topic | Open in Colab |
